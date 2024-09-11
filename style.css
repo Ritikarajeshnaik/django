@@ -1,0 +1,15 @@
+#p1{
+    font-size: 35px;
+    font-style: bold;
+}
+#p2{
+    font-size: 25px;
+}
+.box{
+    background-color: #b75ad0;
+      color: rgb(4, 4, 4);
+      text-align: center;
+      padding: 20px;
+      margin: 10px;
+      border-radius: 8px;
+}
